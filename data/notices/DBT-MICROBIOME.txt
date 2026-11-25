@@ -1,0 +1,20 @@
+ID: DBT-MICROBIOME
+Title: DBT Call for Proposals on Microbiome and Human Health: Therapeutic Potential and Translational Opportunities
+Agency: DBT
+Source: https://www.indiascienceandtechnology.gov.in/announcementsopportunity/dbt-call-proposal-microbiome-and-their-implications-human-health-and-disease-therapeutic-potential
+Retrieved: 2026-11-25
+Note: Paraphrased summary of the announcement page. Verify against the original before relying on it.
+Deadline: 2026-10-15
+Budget: not stated
+Duration: not stated
+Themes: microbiome based therapeutics; moving microbiome discoveries from preclinical validation toward product development and clinical use; human health and disease
+Eligibility:
+- Principal investigator must hold a regular post at an academic or scientific institution
+- Each investigator may submit only one proposal seeking funding under this call
+- Work with human participants, human samples or animals must name the required ethics approvals
+- Proposals that only describe links between gut microbiome, diet and health are excluded
+- Exploratory discovery stage work is excluded unless it has proof of concept and a defined therapeutic endpoint
+Proposal format:
+- Regulatory approval pathway for relevant work packages
+Attachments:
+- Ethics approvals where relevant

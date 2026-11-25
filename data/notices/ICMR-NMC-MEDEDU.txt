@@ -1,0 +1,39 @@
+ID: ICMR-NMC-MEDEDU
+Title: ICMR and NMC Joint Call: Research for Strengthening and Enhancing Quality of Medical Education (2026)
+Agency: ICMR with NMC
+Source: https://www.icmr.gov.in/icmrobject/uploads/Call/1781779099_jointcallicmrnmc-strentheningmedicaleducation-e-office18062026.pdf
+Retrieved: 2026-11-25
+Note: Paraphrased summary of the call document. Verify against the original before relying on it.
+Deadline: 2026-08-21
+Budget: no per-project ceiling; budget must follow ICMR guidelines with justification for each item
+Duration: up to 3 years (small grant) or up to 4 years (intermediate grant); optional 6 month preparatory phase
+Themes: medical education; competency based medical education; digital and technology enabled teaching of scientific knowledge; building research skills and competencies of undergraduate, postgraduate and doctoral students
+Eligibility:
+- Applicant institution must be a medical college or medical institution, with the head of the institution endorsing the project
+- Principal investigator must be regular faculty holding an MBBS, MD, MS or DM degree with some prior research effort in medical education
+- At least one Co-PI must be from the PI's institution; up to three Co-PIs are allowed
+- ICMR scientists cannot apply as PI
+Proposal format:
+- Title
+- Structured summary [max 500 words]
+- Keywords
+- Background and rationale [max 1000 words]
+- Research questions
+- Objectives [max 4 items]
+- Methodology
+- Implementation plan with milestone chart
+- Risks and mitigation
+- Expected outcomes [max 500 words]
+- Next steps after the project
+- AI-use disclosure
+- References
+- Preliminary work [max 1000 words]
+- Team expertise
+- Institutional support
+- Detailed budget
+Attachments:
+- Proposal
+- CVs of PI and Co-PIs
+- Endorsement letter from head of institution
+- Ethics clearance or proof of submission
+- Budget breakdown

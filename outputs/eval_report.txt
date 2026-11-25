@@ -1,0 +1,5 @@
+Eligibility: 28/28 correct (100%)
+Retrieval: hit@1 12/12, hit@3 12/12, MRR 1.0
+Drafting v1: {'first_pass': 15.62, 'final': 100.0, 'rounds': 2.0, 'duplication': 0.35, 'keyword_noise': 0.5, 'limit_violations_final': 0.0}
+Drafting v2: {'first_pass': 18.75, 'final': 100.0, 'rounds': 2.0, 'duplication': 0.13, 'keyword_noise': 0.0, 'limit_violations_final': 0.0}
+Chatbot: intent 8/8, content 8/8, cited 8/8

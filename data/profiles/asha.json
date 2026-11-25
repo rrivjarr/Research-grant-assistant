@@ -1,0 +1,3 @@
+{"name":"Dr Asha (test profile)","age":34,"gender":"F","citizenship":"Indian","degrees":["PhD Engineering"],"position":"regular","months_since_joining":10,"category":"General","state":"Karnataka","institution":"university","prior_serb_grant":false,
+ "title":"Retrieval-augmented triage of rural clinic referrals using low-cost sensors",
+ "idea":"We propose a retrieval augmented decision support tool for rural clinics that uses low cost sensors and open health guidelines to prioritise patient referrals, evaluated at three primary health centres."}

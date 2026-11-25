@@ -1,0 +1,17 @@
+ID: DHR-NER-HRD
+Title: DHR Call for Research Proposals, North Eastern Region, HRD Sub-scheme for Health Research (2026-27)
+Agency: DHR (MoHFW) via ICMR
+Source: https://www.icmr.gov.in/icmrobject/uploads/Call/1790596857_calln_rdhr.pdf
+Retrieved: 2026-11-25
+Note: Paraphrased summary of the call document. The page lists few eligibility details. Verify against the original.
+Deadline: 2026-11-30
+Budget: not stated
+Duration: not stated
+Themes: capacity building of medical and health research personnel in cutting edge health research; Women Scientist Fellowship Programme; NRI, PIO and OCI Research Support Programme
+Eligibility:
+- Applicants must come from a North Eastern state: Arunachal Pradesh, Assam, Manipur, Meghalaya, Mizoram, Nagaland, Sikkim or Tripura
+- Full eligibility terms and conditions are on the DHR website and were not captured here
+Proposal format:
+- Full length research proposal
+Attachments:
+- Ethics committee clearance for studies involving humans or animals

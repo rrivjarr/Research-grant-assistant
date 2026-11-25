@@ -1,0 +1,21 @@
+ID: DBT-BIOCARE
+Title: DBT BioCARe Programme for Women Researchers
+Agency: DBT
+Source: https://www.indiascienceandtechnology.gov.in/announcementsopportunity/call-applications-dbt-biocare-programme-women-researchers
+Retrieved: 2026-11-25
+Note: Paraphrased summary of the announcement page. Verify against the original before relying on it.
+Deadline: 2026-09-23
+Budget: not stated
+Duration: up to 3 years
+Themes: increase participation of women researchers and support their career development in biotechnology
+Eligibility:
+- Applicant must be a woman
+- Applicant must be an Indian national residing in India
+- Applicant age must be up to 55 years
+- Applicant must be unemployed on the closing date
+- Applicant must hold a PhD in biotechnology, life sciences or an allied field, or an MD, MDS or MVSc degree, or an MTech in biotechnology or an allied field or an MPharm degree
+- Candidates currently enrolled in higher studies or receiving any fellowship are not eligible
+Proposal format:
+- Research proposal
+Attachments:
+- Documents listed on the portal (not captured here)

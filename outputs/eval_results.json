@@ -1,0 +1,528 @@
+{
+ "eligibility": {
+  "n": 28,
+  "correct": 28,
+  "rows": [
+   {
+    "id": "E01",
+    "call": "SERB-SRG",
+    "expected": "ELIGIBLE",
+    "got": "ELIGIBLE",
+    "ok": true
+   },
+   {
+    "id": "E02",
+    "call": "SERB-SRG",
+    "expected": "NEAR",
+    "got": "NEAR",
+    "ok": true
+   },
+   {
+    "id": "E03",
+    "call": "SERB-SRG",
+    "expected": "ELIGIBLE",
+    "got": "ELIGIBLE",
+    "ok": true
+   },
+   {
+    "id": "E04",
+    "call": "SERB-SRG",
+    "expected": "NEAR",
+    "got": "NEAR",
+    "ok": true
+   },
+   {
+    "id": "E05",
+    "call": "SERB-SRG",
+    "expected": "NEAR",
+    "got": "NEAR",
+    "ok": true
+   },
+   {
+    "id": "E06",
+    "call": "SERB-SRG",
+    "expected": "NEAR",
+    "got": "NEAR",
+    "ok": true
+   },
+   {
+    "id": "E07",
+    "call": "SERB-SRG",
+    "expected": "NEAR",
+    "got": "NEAR",
+    "ok": true
+   },
+   {
+    "id": "E08",
+    "call": "SERB-SRG",
+    "expected": "NOT",
+    "got": "NOT",
+    "ok": true
+   },
+   {
+    "id": "E09",
+    "call": "SERB-SRG",
+    "expected": "NEAR",
+    "got": "NEAR",
+    "ok": true
+   },
+   {
+    "id": "E10",
+    "call": "SERB-ECRA",
+    "expected": "NEAR",
+    "got": "NEAR",
+    "ok": true
+   },
+   {
+    "id": "E11",
+    "call": "SERB-ECRA",
+    "expected": "ELIGIBLE",
+    "got": "ELIGIBLE",
+    "ok": true
+   },
+   {
+    "id": "E12",
+    "call": "SERB-ECRA",
+    "expected": "NEAR",
+    "got": "NEAR",
+    "ok": true
+   },
+   {
+    "id": "E13",
+    "call": "SERB-ECRA",
+    "expected": "NEAR",
+    "got": "NEAR",
+    "ok": true
+   },
+   {
+    "id": "E14",
+    "call": "SERB-CRG",
+    "expected": "ELIGIBLE",
+    "got": "ELIGIBLE",
+    "ok": true
+   },
+   {
+    "id": "E15",
+    "call": "SERB-CRG",
+    "expected": "NEAR",
+    "got": "NEAR",
+    "ok": true
+   },
+   {
+    "id": "E16",
+    "call": "DBT-BIOCARE",
+    "expected": "ELIGIBLE",
+    "got": "ELIGIBLE",
+    "ok": true
+   },
+   {
+    "id": "E17",
+    "call": "DBT-BIOCARE",
+    "expected": "CLOSED",
+    "got": "CLOSED",
+    "ok": true
+   },
+   {
+    "id": "E18",
+    "call": "DBT-BIOCARE",
+    "expected": "NEAR",
+    "got": "NEAR",
+    "ok": true
+   },
+   {
+    "id": "E19",
+    "call": "DBT-BIOCARE",
+    "expected": "NEAR",
+    "got": "NEAR",
+    "ok": true
+   },
+   {
+    "id": "E20",
+    "call": "DBT-BIOCARE",
+    "expected": "NEAR",
+    "got": "NEAR",
+    "ok": true
+   },
+   {
+    "id": "E21",
+    "call": "DHR-NER-HRD",
+    "expected": "ELIGIBLE",
+    "got": "ELIGIBLE",
+    "ok": true
+   },
+   {
+    "id": "E22",
+    "call": "DHR-NER-HRD",
+    "expected": "NEAR",
+    "got": "NEAR",
+    "ok": true
+   },
+   {
+    "id": "E23",
+    "call": "ICMR-FIW-2026",
+    "expected": "ELIGIBLE",
+    "got": "ELIGIBLE",
+    "ok": true
+   },
+   {
+    "id": "E24",
+    "call": "ICMR-NMC-MEDEDU",
+    "expected": "ELIGIBLE",
+    "got": "ELIGIBLE",
+    "ok": true
+   },
+   {
+    "id": "E25",
+    "call": "ICMR-NMC-MEDEDU",
+    "expected": "NOT",
+    "got": "NOT",
+    "ok": true
+   },
+   {
+    "id": "E26",
+    "call": "ICMR-NMC-MEDEDU",
+    "expected": "CLOSED",
+    "got": "CLOSED",
+    "ok": true
+   },
+   {
+    "id": "E27",
+    "call": "DBT-MICROBIOME",
+    "expected": "ELIGIBLE",
+    "got": "ELIGIBLE",
+    "ok": true
+   },
+   {
+    "id": "E28",
+    "call": "DBT-MICROBIOME",
+    "expected": "CLOSED",
+    "got": "CLOSED",
+    "ok": true
+   }
+  ]
+ },
+ "retrieval": {
+  "n": 12,
+  "hit1": 12,
+  "hit3": 12,
+  "mrr": 1.0,
+  "rows": [
+   {
+    "query": "early career researcher award young scientists age limit",
+    "expected": "SERB-ECRA",
+    "rank": 1
+   },
+   {
+    "query": "start-up grant for faculty who joined recently",
+    "expected": "SERB-SRG",
+    "rank": 1
+   },
+   {
+    "query": "women researchers unemployed biotechnology programme",
+    "expected": "DBT-BIOCARE",
+    "rank": 1
+   },
+   {
+    "query": "microbiome therapeutics human health",
+    "expected": "DBT-MICROBIOME",
+    "rank": 1
+   },
+   {
+    "query": "medical education competency based teaching",
+    "expected": "ICMR-NMC-MEDEDU",
+    "rank": 1
+   },
+   {
+    "query": "first of its kind vaccine drug diagnostic prototype",
+    "expected": "ICMR-FIW-2026",
+    "rank": 1
+   },
+   {
+    "query": "North Eastern region health research fellowship",
+    "expected": "DHR-NER-HRD",
+    "rank": 1
+   },
+   {
+    "query": "core research support frontier science and engineering",
+    "expected": "SERB-CRG",
+    "rank": 1
+   },
+   {
+    "query": "high risk high reward biomedical innovation startup MSME",
+    "expected": "ICMR-FIW-2026",
+    "rank": 1
+   },
+   {
+    "query": "plagiarism undertaking originality",
+    "expected": "SERB-CRG",
+    "rank": 1
+   },
+   {
+    "query": "women scientist fellowship NRI PIO",
+    "expected": "DHR-NER-HRD",
+    "rank": 1
+   },
+   {
+    "query": "Rs 50 lakh three years excluding overheads",
+    "expected": "SERB-ECRA",
+    "rank": 1
+   }
+  ]
+ },
+ "drafting": {
+  "v1": {
+   "first_pass": 15.62,
+   "final": 100.0,
+   "rounds": 2.0,
+   "duplication": 0.35,
+   "keyword_noise": 0.5,
+   "limit_violations_final": 0.0
+  },
+  "v2": {
+   "first_pass": 18.75,
+   "final": 100.0,
+   "rounds": 2.0,
+   "duplication": 0.13,
+   "keyword_noise": 0.0,
+   "limit_violations_final": 0.0
+  },
+  "per_call": {
+   "1": [
+    {
+     "first_pass": 0,
+     "final": 100,
+     "rounds": 2,
+     "real_sections": 0,
+     "total_sections": 1,
+     "duplication": 0.0,
+     "keyword_noise": 0,
+     "limit_violations_final": 0,
+     "call": "DBT-BIOCARE"
+    },
+    {
+     "first_pass": 0,
+     "final": 100,
+     "rounds": 2,
+     "real_sections": 0,
+     "total_sections": 1,
+     "duplication": 0.0,
+     "keyword_noise": 0,
+     "limit_violations_final": 0,
+     "call": "DBT-MICROBIOME"
+    },
+    {
+     "first_pass": 0,
+     "final": 100,
+     "rounds": 2,
+     "real_sections": 0,
+     "total_sections": 1,
+     "duplication": 0.0,
+     "keyword_noise": 0,
+     "limit_violations_final": 0,
+     "call": "DHR-NER-HRD"
+    },
+    {
+     "first_pass": 33,
+     "final": 100,
+     "rounds": 2,
+     "real_sections": 7,
+     "total_sections": 18,
+     "duplication": 1.0,
+     "keyword_noise": 1,
+     "limit_violations_final": 0,
+     "call": "ICMR-FIW-2026"
+    },
+    {
+     "first_pass": 35,
+     "final": 100,
+     "rounds": 2,
+     "real_sections": 6,
+     "total_sections": 17,
+     "duplication": 0.78,
+     "keyword_noise": 2,
+     "limit_violations_final": 0,
+     "call": "ICMR-NMC-MEDEDU"
+    },
+    {
+     "first_pass": 0,
+     "final": 100,
+     "rounds": 2,
+     "real_sections": 0,
+     "total_sections": 2,
+     "duplication": 0.0,
+     "keyword_noise": 0,
+     "limit_violations_final": 0,
+     "call": "SERB-CRG"
+    },
+    {
+     "first_pass": 0,
+     "final": 100,
+     "rounds": 2,
+     "real_sections": 0,
+     "total_sections": 1,
+     "duplication": 0.0,
+     "keyword_noise": 0,
+     "limit_violations_final": 0,
+     "call": "SERB-ECRA"
+    },
+    {
+     "first_pass": 57,
+     "final": 100,
+     "rounds": 2,
+     "real_sections": 5,
+     "total_sections": 7,
+     "duplication": 1.0,
+     "keyword_noise": 1,
+     "limit_violations_final": 0,
+     "call": "SERB-SRG"
+    }
+   ],
+   "2": [
+    {
+     "first_pass": 0,
+     "final": 100,
+     "rounds": 2,
+     "real_sections": 0,
+     "total_sections": 1,
+     "duplication": 0.0,
+     "keyword_noise": 0,
+     "limit_violations_final": 0,
+     "call": "DBT-BIOCARE"
+    },
+    {
+     "first_pass": 0,
+     "final": 100,
+     "rounds": 2,
+     "real_sections": 0,
+     "total_sections": 1,
+     "duplication": 0.0,
+     "keyword_noise": 0,
+     "limit_violations_final": 0,
+     "call": "DBT-MICROBIOME"
+    },
+    {
+     "first_pass": 0,
+     "final": 100,
+     "rounds": 2,
+     "real_sections": 0,
+     "total_sections": 1,
+     "duplication": 0.0,
+     "keyword_noise": 0,
+     "limit_violations_final": 0,
+     "call": "DHR-NER-HRD"
+    },
+    {
+     "first_pass": 44,
+     "final": 100,
+     "rounds": 2,
+     "real_sections": 8,
+     "total_sections": 18,
+     "duplication": 0.56,
+     "keyword_noise": 0,
+     "limit_violations_final": 0,
+     "call": "ICMR-FIW-2026"
+    },
+    {
+     "first_pass": 35,
+     "final": 100,
+     "rounds": 2,
+     "real_sections": 6,
+     "total_sections": 17,
+     "duplication": 0.32,
+     "keyword_noise": 0,
+     "limit_violations_final": 0,
+     "call": "ICMR-NMC-MEDEDU"
+    },
+    {
+     "first_pass": 0,
+     "final": 100,
+     "rounds": 2,
+     "real_sections": 0,
+     "total_sections": 2,
+     "duplication": 0.0,
+     "keyword_noise": 0,
+     "limit_violations_final": 0,
+     "call": "SERB-CRG"
+    },
+    {
+     "first_pass": 0,
+     "final": 100,
+     "rounds": 2,
+     "real_sections": 0,
+     "total_sections": 1,
+     "duplication": 0.0,
+     "keyword_noise": 0,
+     "limit_violations_final": 0,
+     "call": "SERB-ECRA"
+    },
+    {
+     "first_pass": 71,
+     "final": 100,
+     "rounds": 2,
+     "real_sections": 5,
+     "total_sections": 7,
+     "duplication": 0.19,
+     "keyword_noise": 0,
+     "limit_violations_final": 0,
+     "call": "SERB-SRG"
+    }
+   ]
+  }
+ },
+ "chatbot": {
+  "n": 8,
+  "intent_ok": 8,
+  "content_ok": 8,
+  "cited": 8,
+  "rows": [
+   {
+    "q": "What is the deadline for the ICMR First in the World call?",
+    "intent_ok": true,
+    "content_ok": true,
+    "cited": true
+   },
+   {
+    "q": "How much funding does the First in the World challenge give?",
+    "intent_ok": true,
+    "content_ok": true,
+    "cited": true
+   },
+   {
+    "q": "What documents do I need for the SERB Start-up Research Grant?",
+    "intent_ok": true,
+    "content_ok": true,
+    "cited": true
+   },
+   {
+    "q": "Which calls are open right now?",
+    "intent_ok": true,
+    "content_ok": true,
+    "cited": true
+   },
+   {
+    "q": "Am I eligible for the SERB Early Career Research Award?",
+    "intent_ok": true,
+    "content_ok": true,
+    "cited": true
+   },
+   {
+    "q": "Compare SRG and ECRA",
+    "intent_ok": true,
+    "content_ok": true,
+    "cited": true
+   },
+   {
+    "q": "How long is the BioCARe programme?",
+    "intent_ok": true,
+    "content_ok": true,
+    "cited": true
+   },
+   {
+    "q": "What is the capital of France?",
+    "intent_ok": true,
+    "content_ok": true,
+    "cited": true
+   }
+  ]
+ }
+}

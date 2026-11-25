@@ -1,0 +1,83 @@
+### Run 1: discover (Asha)
+As of 2026-11-25. Query: 'We propose a retrieval augmented decision support tool for rural clinics that uses low cost sensors and open health guidelines to prioritise patient referrals, evaluated at three primary health centres.'
+  0.226  DHR-NER-HRD      OPEN                       DHR Call for Research Proposals, North Eastern Region, HRD Sub-scheme for Health Research (2026-27)
+           -> NEAR MISS: one blocker
+  0.129  ICMR-FIW-2026    OPEN                       ICMR First in the World Challenge Grants (2026)
+           -> ELIGIBLE (verify manual clauses)
+  0.043  SERB-ECRA        no fixed deadline on page  SERB Early Career Research Award (ECRA)
+           -> ELIGIBLE (verify manual clauses)
+  0.042  SERB-CRG         no fixed deadline on page  SERB Core Research Grant (CRG)
+           -> ELIGIBLE (verify manual clauses)
+
+### Run 2: discover --include-expired, query 'microbiome human health'
+As of 2026-11-25. Query: 'microbiome human health therapeutics'
+  0.482  DBT-MICROBIOME   EXPIRED                    DBT Call for Proposals on Microbiome and Human Health: Therapeutic Potential and Translational Opportunities
+  0.116  DHR-NER-HRD      OPEN                       DHR Call for Research Proposals, North Eastern Region, HRD Sub-scheme for Health Research (2026-27)
+  0.086  ICMR-FIW-2026    OPEN                       ICMR First in the World Challenge Grants (2026)
+
+### Run 3: Ravi vs SERB-ECRA (near miss)
+SERB-ECRA: NEAR MISS: one blocker
+  [ok]   Applicant must hold a PhD in Science or Engineering, or an MD or MS in a medical field
+         -> holds a qualifying degree
+  [ok]   Applicant must hold a regular academic or research position at a recognised institution; applicants without a finalised post are not eligible
+         -> holds a regular position
+  [FAIL] Upper age limit is 37 years, with a 3 year relaxation for SC, ST, OBC, persons with disabilities and women
+         -> age 39 exceeds the limit of 37 (a 3-year relaxation exists for SC/ST/OBC/PwD/women, but this profile does not qualify)
+  [check] Co-PIs and mentors are not allowed
+         -> no automatic rule for this clause; read it yourself
+
+
+### Run 4: Meena vs DBT-BIOCARE and DHR-NER-HRD
+DBT-BIOCARE: ELIGIBLE
+  [ok]   Applicant must be a woman
+         -> woman applicant
+  [ok]   Applicant must be an Indian national residing in India
+         -> Indian national
+  [ok]   Applicant age must be up to 55 years
+         -> age 41 <= 55
+  [ok]   Applicant must be unemployed on the closing date
+         -> unemployed on closing date
+  [ok]   Applicant must hold a PhD in biotechnology, life sciences or an allied field, or an MD, MDS or MVSc degree, or an MTech in biotechnology or an allied field or an MPharm degree
+         -> holds a qualifying degree
+  [ok]   Candidates currently enrolled in higher studies or receiving any fellowship are not eligible
+DHR-NER-HRD: ELIGIBLE (verify manual clauses)
+  [ok]   Applicants must come from a North Eastern state: Arunachal Pradesh, Assam, Manipur, Meghalaya, Mizoram, Nagaland, Sikkim or Tripura
+         -> state Assam is in the NE region
+
+### Run 5: checklist SERB-SRG
+ 1. [sect] Project title (max 500 chars)
+ 2. [sect] Project summary (max 3000 chars)
+ 3. [sect] Keywords (max 6 items)
+ 4. [sect] Objectives (max 1500 chars)
+ 5. [sect] Expected outputs and outcomes (max 1500 chars)
+ 6. [sect] Budget by head (manpower, consumables, travel, equipment, contingency, overheads)
+ 7. [sect] Technical details PDF
+ 8. [atta] Biodata
+ 9. [atta] PI certificate
+10. [atta] Endorsement letter from head of institution
+11. [atta] Age proof
+
+### Run 6: draft loop SERB-SRG (Asha)
+Round 1: compliance 57%
+   - Keywords: over limit: 10 items > 6
+   - Budget by head (manpower, consumables, travel, equipment, contingency, overheads): missing section
+   - Technical details PDF: missing section
+Round 2: compliance 100%
+Wrote outputs/asha_SERB-SRG_draft.docx and outputs/asha_SERB-SRG_draft.md
+
+### Run 7: draft loop ICMR-FIW-2026
+Round 1: compliance 33%
+   - Keywords: over limit: 10 items > 6
+   - Significance: missing section
+   - Methodology: missing section
+   - Work plan with GANTT or PERT chart: missing section
+   - Future plans: missing section
+   - Conflict of interest: missing section
+   - IP status: missing section
+   - Institutional support facilities and manpower: missing section
+   - Preliminary work: missing section
+   - Team expertise: missing section
+   - Laboratory facilities: missing section
+   - Detailed budget with justification: missing section
+Round 2: compliance 100%
+Wrote outputs/asha_ICMR-FIW_draft.docx and outputs/asha_ICMR-FIW_draft.md

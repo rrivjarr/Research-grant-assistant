@@ -1,0 +1,19 @@
+ID: SERB-ECRA
+Title: SERB Early Career Research Award (ECRA)
+Agency: SERB (DST)
+Source: https://prism.serbonline.in/RS-ECRA
+Retrieved: 2026-11-25
+Note: Paraphrased summary of the official scheme page. Verify against the original before relying on it.
+Deadline: not stated (check the current call notice)
+Budget: up to Rs 50 lakh excluding overheads
+Duration: 3 years
+Themes: quick research support for early career researchers pursuing innovative work in frontier areas of science and engineering
+Eligibility:
+- Applicant must hold a PhD in Science or Engineering, or an MD or MS in a medical field
+- Applicant must hold a regular academic or research position at a recognised institution; applicants without a finalised post are not eligible
+- Upper age limit is 37 years, with a 3 year relaxation for SC, ST, OBC, persons with disabilities and women
+- Co-PIs and mentors are not allowed
+Proposal format:
+- Research proposal
+Attachments:
+- Mandatory documents listed on the portal (not captured here)

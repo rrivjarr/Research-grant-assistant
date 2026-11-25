@@ -1,0 +1,18 @@
+ID: SERB-CRG
+Title: SERB Core Research Grant (CRG)
+Agency: SERB (DST)
+Source: https://prism.serbonline.in/RS-CRG
+Retrieved: 2026-11-25
+Note: Paraphrased from the SERB scheme page and the DST schemes page (indiascienceandtechnology.gov.in). Verify against the original.
+Deadline: not stated (check the current call notice)
+Budget: no fixed upper or lower limit; the budget should match the work proposed
+Duration: 3 years
+Themes: core research support for active researchers in frontier areas of science and engineering; all science and engineering disciplines; judged on novelty and the investigator's competence
+Eligibility:
+- Applicant must hold a regular academic or research position at a recognised academic institution, national laboratory or R&D institution in India
+- An investigator can hold only one such project at a time
+Proposal format:
+- Research proposal
+- Plagiarism undertaking
+Attachments:
+- Plagiarism undertaking

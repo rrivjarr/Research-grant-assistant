@@ -1,0 +1,31 @@
+ID: SERB-SRG
+Title: SERB Start-up Research Grant (SRG)
+Agency: SERB (DST)
+Source: https://prism.serbonline.in/RS-NSRG
+Retrieved: 2026-11-25
+Note: Paraphrased summary of the official scheme page. Verify against the original before relying on it.
+Deadline: not stated (announced per call on serbonline.in)
+Budget: Rs 30 lakh plus overheads
+Duration: 2 years
+Themes: frontier areas of science and engineering; helps researchers start an independent research career at a new institution; stepping stone to the Core Research Grant
+Eligibility:
+- Applicant must be an Indian citizen
+- Applicant must hold a PhD in Science or Engineering, or an MD, MS, MDS or MVSc degree
+- Applicant must hold a regular academic or research position at a recognised institution; contractual or temporary roles do not qualify
+- Applicant must apply within two years of joining the institution
+- Upper age limit is 42 years, with a 3 year relaxation for SC, ST, OBC, persons with disabilities and women
+- Applicants who already received a SERB grant such as YSS, ECR or CRG are not eligible
+- Co-PIs are not permitted
+Proposal format:
+- Project title [max 500 chars]
+- Project summary [max 3000 chars]
+- Keywords [max 6 items]
+- Objectives [max 1500 chars]
+- Expected outputs and outcomes [max 1500 chars]
+- Budget by head (manpower, consumables, travel, equipment, contingency, overheads)
+- Technical details PDF
+Attachments:
+- Biodata
+- PI certificate
+- Endorsement letter from head of institution
+- Age proof
